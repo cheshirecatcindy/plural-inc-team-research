@@ -1,0 +1,9 @@
+Let's say we were writing an informative tutorial on how Git works, but aimed at writers.
+
+We'd have our working version, which would be this.
+
+We'd also might have stuff that goes with it. Research notes, the original assignment, the contract, things we're drawing inspiration from, who knows. That will be elsewhere in the repo. Repos often contain files that are "payload" (things that will be published/run/used/changed etc...) and materials that were used in the creation of the payload.
+
+When I'm done writing for now, I save it on my machine and "push" it to the "repo". It's my "repo", so I can do that.
+
+As the owner, I have these two powers. "Push", and "Pull". Push is all about me. It's like "Save" in Google Docs. We'll get to "pull" later. It's weird. But I'm pretty sure, given the way we work when I have text I need your help with, "pull" and the even more funky "merge" are gonna need writer-like friendly and easy-to-understand versions. I do those by hand with any edits you've ever sent me. That'd work in Git. Something to do with "pull" and "merge". Exploration required.
