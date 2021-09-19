@@ -11,3 +11,7 @@ Anyone can see the repo containing this file through this link: https://github.c
 I'll add this file to the repo, and then add a link to the file-in-the-repo. Just a sec: Okay, anyone can view the file here: https://github.com/3dspace/plural-inc-team-research/blob/main/rookie-questions.txt
 
 Now I'll "push" this new version. A version control system will manage the two, and give us great powers usually reserved for people who deal in code.
+
+"Do I have to be online to work on my repo?"
+
+No! Say you want to go to the cottage for a week, with a crummy little notebook computer and no internet. If you "synch" your computer to your repo — and then "synch" your repo with your crummy little notebook, you can work away on that copy of the repo — and then just "synch" up again when you get home.
