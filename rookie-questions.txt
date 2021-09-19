@@ -1,0 +1,11 @@
+Rookie Questions
+
+Here we record some of the questions raised by those completely unfamiliar with the Git.
+
+"Do I have to make my own Git?"
+
+Certainly not! You can read the contents of any non-private repo through your web browser.
+
+Anyone can see the repo containing this file through this link: https://github.com/3dspace/plural-inc-team-research
+
+I'll add this file to the repo, and then add a link to the file-in-the-repo. Just a sec:
