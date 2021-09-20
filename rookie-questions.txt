@@ -21,3 +21,27 @@ No! Say you want to go to the cottage for a week, with a crummy little notebook 
 "Do I have to work with .txt files?"
 
 "Can I get a .pdf and/or print what I have now nicely and easily?"
+
+-----------------------------
+
+Actual questions from a rookie, first time inside!
+
+-----------------------------
+
+Where am I? 
+It says I am at 3dspace/plural-inc.... 
+is 3dspace a user...or a domain name? 
+
+
+If I click on Main it says Switch Branches/Tags....omg What does that mean?
+
+I clicked on Branch. It took me somewhere. I have no idea where? (I used the back button to get back)
+
+I clicked Blame. I have no idea what happened after that. 
+
+I clicked on Labels and found a whole bunch of labels. Are those default labels or something more bespoke?
+
+Clicked thru the horizontal nav bar --- Issues/Pull requests/Actions/Projects etc... it's not too intuitive is it??
+
+
+It's weird how the CODE and WIKI is the only page that shows me my stuff -- and the rest of it is all kind of site info. 
