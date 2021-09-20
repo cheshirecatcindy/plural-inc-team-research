@@ -29,19 +29,34 @@ Actual questions from a rookie, first time inside!
 -----------------------------
 
 Where am I? 
+
+*** You are at the "overview" of the "repo"
+
 It says I am at 3dspace/plural-inc.... 
 is 3dspace a user...or a domain name? 
+
+*** 3dspace is my username, plural-inc-team-research is the name of the repo.
 
 
 If I click on Main it says Switch Branches/Tags....omg What does that mean?
 
+*** Don't want that yet.
+
 I clicked on Branch. It took me somewhere. I have no idea where? (I used the back button to get back)
+
+*** Don't want that yet.
 
 I clicked Blame. I have no idea what happened after that. 
 
+*** Don't want that yet.
+
 I clicked on Labels and found a whole bunch of labels. Are those default labels or something more bespoke?
 
+*** Don't want that yet.
+
 Clicked thru the horizontal nav bar --- Issues/Pull requests/Actions/Projects etc... it's not too intuitive is it??
+
+It's not at all intuitive! It's nuts. Programmers get a kick out of figuring it out. Normal people? Maybe not so much. Which I think is key to the challenge at hand.
 
 
 It's weird how the CODE and WIKI is the only page that shows me my stuff -- and the rest of it is all kind of site info. 
