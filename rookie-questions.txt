@@ -60,3 +60,20 @@ It's not at all intuitive! It's nuts. Programmers get a kick out of figuring it 
 
 
 It's weird how the CODE and WIKI is the only page that shows me my stuff -- and the rest of it is all kind of site info. 
+
+
+************************************
+
+A second round of fresh rookie questions!
+
+*************************************
+
+What is this place for? For saving stuff? or sharing stuff? or both? 
+
+I see lots of different kinds of files. (jpg txt). Can I save any kind of file?
+
+It says "public" at the top. Can everyone in the whole world see these files, or just people who are members of 3dspace or Plural_inc_research?
+
+If I Sign Up ... am I automatically allowed to post in 3dspace or Plural_inc_research or do I have to join or be accepted? 
+
+I do like the specificity and granularity of things (ie: 9 commits. 9 minutes ago) 
