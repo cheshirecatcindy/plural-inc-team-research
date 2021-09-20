@@ -15,3 +15,9 @@ Now I'll "push" this new version. A version control system will manage the two, 
 "Do I have to be online to work on my repo?"
 
 No! Say you want to go to the cottage for a week, with a crummy little notebook computer and no internet. If you "synch" your computer to your repo — and then "synch" your repo with your crummy little notebook, you can work away on that copy of the repo — and then just "synch" up again when you get home.
+
+"Can I format my text?"
+
+"Do I have to work with .txt files?"
+
+"Can I get a .pdf and/or print what I have now nicely and easily?"
