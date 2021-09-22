@@ -7,3 +7,5 @@ We'd also might have stuff that goes with it. Research notes, the original assig
 When I'm done writing for now, I save it on my machine and "push" it to the "repo". It's my "repo", so I can do that.
 
 As the owner, I have these two powers. "Push", and "Pull". Push is all about me. It's like "Save" in Google Docs. We'll get to "pull" later. It's weird. But I'm pretty sure, given the way we work when I have text I need your help with, "pull" and the even more funky "merge" are gonna need writer-like friendly and easy-to-understand versions. I do those by hand with any edits you've ever sent me. That'd work in Git. Something to do with "pull" and "merge". Exploration required.
+
+Trying out the "edit" option on the GitHub. Easy for me to see. It's my repo. What of others? Unregistered users?
