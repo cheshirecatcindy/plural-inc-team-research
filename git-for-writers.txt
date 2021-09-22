@@ -1,6 +1,6 @@
 Let's say we were writing an informative tutorial on how Git works, but aimed at writers.
 
-We'd have our working version, which would be this.
+We'd have our working version, which would be this. And if I edit this, which I am now doing, I can make a "pull" request and send it to you. Online. Like. Right?
 
 We'd also might have stuff that goes with it. Research notes, the original assignment, the contract, things we're drawing inspiration from, who knows. That will be elsewhere in the repo. Repos often contain files that are "payload" (things that will be published/run/used/changed etc...) and materials that were used in the creation of the payload.
 
